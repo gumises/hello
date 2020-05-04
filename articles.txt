@@ -1,0 +1,10 @@
+	2020.04.30
+https://realpython.com/numpy-tensorflow-performance/
+https://realpython.com/python-pep8/
+
+	2020.05.01
+https://www.python.org/dev/peps/pep-0007/
+https://cmdlinetips.com/2018/03/sparse-matrices-in-python-with-scipy/
+
+	2020.05.04
+https://realpython.com/jupyter-notebook-introduction/
