@@ -8,3 +8,7 @@ https://cmdlinetips.com/2018/03/sparse-matrices-in-python-with-scipy/
 
 	2020.05.04
 https://realpython.com/jupyter-notebook-introduction/
+
+	2020.05.05
+https://web.archive.org/web/20170814144026/http://students.mimuw.edu.pl/SR-MSUI/07-Bloom/bloom.pdf
+https://ksmigiel.com/2016/06/bloom-filters/
