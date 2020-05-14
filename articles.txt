@@ -21,3 +21,16 @@ None
 
 	2020.05.11
 None
+
+	2020.05.12
+https://www.informit.com/articles/article.aspx?p=2167437&seqNum=2
+https://realpython.com/pygame-a-primer/
+
+	2020.05.13
+https://pl.python.org/forum/index.php?topic=5727.0;wap2
+https://hackaday.com/2019/09/11/lambdas-for-c-sort-of/
+https://natureofcode.com/book/chapter-1-vectors/
+
+	2020.05.14
+https://natureofcode.com/book/chapter-2-forces/
+https://natureofcode.com/book/chapter-6-autonomous-agents/
