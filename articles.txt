@@ -19,7 +19,7 @@ None
 	2020.05.07
 None
 
-	2020.05.11
+	2020.05.11s
 None
 
 	2020.05.12
@@ -34,3 +34,8 @@ https://natureofcode.com/book/chapter-1-vectors/
 	2020.05.14
 https://natureofcode.com/book/chapter-2-forces/
 https://natureofcode.com/book/chapter-6-autonomous-agents/
+https://hackaday.com/2019/01/22/crash-your-code-lessons-learned-from-debugging-things-that-should-never-happen/
+
+	2020.05.17
+https://sites.google.com/site/technicalarchery/technical-discussions-1/trajectory
+https://www.omnicalculator.com/physics/projectile-motion
