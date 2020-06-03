@@ -42,3 +42,15 @@ https://www.omnicalculator.com/physics/projectile-motion
 
 	2020.05.21
 https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+
+	2020.05.30
+https://medium.com/predict/artificial-neural-networks-universal-function-approximators-cf5198224b58
+
+	2020.05.31
+http://people.ece.umn.edu/~arya/EE5585/lecture23.pdf?fbclid=IwAR1H5Az8t59-U-mVLPvlVHSq0sR17PS2ZDKE8G9rHpfQrcUQQTCsMAbu0UY
+https://towardsdatascience.com/can-machine-learn-the-concept-of-sine-4047dced3f11
+http://neuralnetworksanddeeplearning.com/chap4.html
+
+	2020.06.02
+https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/
