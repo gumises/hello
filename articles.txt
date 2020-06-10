@@ -54,3 +54,8 @@ http://neuralnetworksanddeeplearning.com/chap4.html
 
 	2020.06.02
 https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/
+
+	2020.06.09
+https://www.geeksforgeeks.org/octal-numbers-c/
+https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
+https://www.geeksforgeeks.org/lvalue-and-rvalue-in-c-language/
