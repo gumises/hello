@@ -59,3 +59,19 @@ https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-b
 https://www.geeksforgeeks.org/octal-numbers-c/
 https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
 https://www.geeksforgeeks.org/lvalue-and-rvalue-in-c-language/
+
+	2020.06.15
+https://www.afternerd.com/blog/python-http-server/
+
+	2020.06.18
+https://www.thegeekstuff.com/2012/01/advanced-c-pointers/
+https://publications.gbdirect.co.uk//c_book/chapter8/const_and_volatile.html
+http://www.keil.com/support/man/docs/armcc/armcc_chr1359124238010.htm
+https://en.cppreference.com/w/c/language/compound_literal
+https://gcc.gnu.org/onlinedocs/gcc/Compound-Literals.html
+https://www.drdobbs.com/the-new-c-compound-literals/184401404
+https://en.cppreference.com/w/c/language/array_initialization
+
+	2020.06.21
+https://www.geeksforgeeks.org/storage-classes-in-c/
+https://en.cppreference.com/w/c/language/storage_duration
